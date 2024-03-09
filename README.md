@@ -16,9 +16,6 @@ The book's manuscript is released under the CC BY-SA license, and is publicly av
 
 Here is an outline of all the examples contained in this repository, by chapter:
 
-### Chapter 1
-
-  - N/A
 
 ### Chapter 2
 
